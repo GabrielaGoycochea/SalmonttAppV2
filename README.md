@@ -28,9 +28,13 @@ ___________________________________________________________________________
 Estructura.
 Dentro de la carpeta src/main/java/com.Salmontt.App.version2
 Se encuentran 4 paquetes de trabajo.
+
 1.- Model que tiene la clase de los objetos a utilizar (Cargo - CentrosCultivos - Rut - Trabajadores)
+
 2.-Service tiene la base para la busqueda dentro de los datos cargados (ServiceCentrosCultivos - ServicesTrabajadores)
+
 3.- UI contiene el MAIN para la ejecución del programa.
+
 4.- Util contiene el codigo que permitira cargar y leer el Archivo Excel (gestorArchivos)
 
 Dentro de la carpeta src/main/resources/Excel
