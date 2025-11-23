@@ -60,6 +60,7 @@ Ejemplo:
 C:\Carpeta\ruta\dondeseguardoelarchivo\SalmonttAppV2\out\artifacts\SalmonttV2_jar>java -jar SalmonttV2.jar
 
 y listo se ejecutar el archivo por consola
- 
-y listo nuestra APP deberia ejecutarse por consola.
+
+*******
+ De ejecutarlo mediante programa de desarrollo, se ejecuta desde el MAIN.
 
