@@ -13,8 +13,8 @@ El proyecto genera un menú de busqueda y visualización con respecto a los dato
 
 Los datos que te permite revisar el programa por centro:
 
--Nombre
--Ubicacion 
+- Nombre
+- Ubicacion 
 - Producto
 - Producción total en base al producto en el centro de cultivo.
   
