@@ -16,6 +16,7 @@ Los datos que te permite revisar el programa por centro:
 -Ubicacion 
 - Producto 
 - Producción total en base al producto en el centro de cultivo.
+- 
 
 Los datos que te permite revisar el programa por trabajadores:
 -Rut 
@@ -38,6 +39,7 @@ Se encuentran 4 paquetes de trabajo.
 4.- Util contiene el codigo que permitira cargar y leer el Archivo Excel (gestorArchivos)
 
 Dentro de la carpeta src/main/resources/Excel
+
 Se encuentra el archivo excel cargado "DatosAppSalmontt.xlsx" 
 ___________________________________________________________________________
 Ejecutable
@@ -45,7 +47,9 @@ Proyecto contiene un archivo .jar
 Para ejecutar debe abrir la consola y buscar la ruta donde se encuentra el archivo .jar
 
 Ejemplo: buscar en el disco C:
+
 C:\Carpeta\ruta\dondeseguardoelarchivo\SalmonttAppV2\out\artifacts\SalmonttV2_jar
+
 Puede cambiar si se guarda en descargas u otro lugar pero siempre la ruta sera desde la carpeta del proyecto y el out.
  
 Al buscar la ruta se nos cargara nuevamente la información en consola pero se cerrara con un >  , seguido del simbolo (>) debemos ingresar lo siguiente:
