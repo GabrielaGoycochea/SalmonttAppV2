@@ -12,11 +12,12 @@ Descripción (DENTRO DEL PROYECTO HAY UNA ARCHIVO README DOCS EL CUAL MUESTRA CO
 El proyecto genera un menú de busqueda y visualización con respecto a los datos de centros de cultivos o trabajadores de la empresa Salmontt.
 
 Los datos que te permite revisar el programa por centro:
--Nombre 
+
+-Nombre
 -Ubicacion 
-- Producto 
+- Producto
 - Producción total en base al producto en el centro de cultivo.
-- 
+  
 
 Los datos que te permite revisar el programa por trabajadores:
 -Rut 
